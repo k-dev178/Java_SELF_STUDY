@@ -55,6 +55,6 @@ System.out.println("b = " + b);
 > a = 10<br>
 > b = 20
 
-[예제2-1]()
-[예제2-2]()
+> [예제2-1](codes/ch2/_1/_1_VarEx.java)<br>
+> [예제2-2](codes/ch2/_1/_2_VarEx2.java)
 ---
