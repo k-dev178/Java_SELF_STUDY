@@ -1,4 +1,6 @@
-# Java_SELF_STUDY
+> 📚 도서
+>
+> [자바의 정석 4판 by 남궁성](https://www.yes24.com/product/goods/147977536)
 
 <pre>
 Java/
